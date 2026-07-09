@@ -6,12 +6,11 @@ require (
 	github.com/emiago/sipgo v1.4.0
 	github.com/google/uuid v1.6.0
 	github.com/icholy/digest v1.1.0
-	github.com/iniwex5/swu-go v0.0.0-20260225055435-bd416d4ebf5a
+	github.com/1239t/swu-go v0.0.1
 	github.com/strongswan/govici v0.8.2
 	gvisor.dev/gvisor v0.0.0-20240521174809-5eedbf551134
 )
 
-replace github.com/iniwex5/swu-go => ../swu-go
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
